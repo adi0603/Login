@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "980411640441",
+    "firebase_url": "https://login-57457.firebaseio.com",
+    "project_id": "login-57457",
+    "storage_bucket": "login-57457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980411640441:android:cc5739fc00492d1bf182a8",
+        "android_client_info": {
+          "package_name": "com.aditya.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980411640441-kspsjbkj43ctm46grngf62sjal5ajlvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_PqniC6AYGleYVijnvuxmVCgUiwXnQdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980411640441-kspsjbkj43ctm46grngf62sjal5ajlvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
